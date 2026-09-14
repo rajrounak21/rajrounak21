@@ -177,22 +177,22 @@ A project exploring MCP-based AI systems and interactions between LLMs, agents, 
 
 ---
 
-## 💼 Experience
+### 💼 Experience
 
-**1.** **Python Developer – Trainee**
+### Python Developer – Trainee
 **Walsis eConnect India Pvt. Ltd. | Patna, Bihar | Apr 2026 – Jul 2026**
 
-* Developed backend features for **Expensepedia**, including PDF/image receipt and invoice processing using **PaddleOCR**.
-* Built extraction and validation logic for **vendor, amount, date, and line items**.
-* Automated structured **Excel expense report generation using openpyxl**.
-* Collaborated with senior developers on code reviews and production-oriented Python development.
+- Developed backend features for **Expensepedia**, including PDF/image receipt and invoice processing using **PaddleOCR**.
+- Built extraction and validation logic for **vendor, amount, date, and line items**.
+- Automated structured **Excel expense report generation using openpyxl**.
+- Collaborated with senior developers on code reviews and production-oriented Python development.
 
-**2.** **Machine Learning Intern**
+### Machine Learning Intern
 **Vaishnav Technologies | Sep 2024 – Oct 2024**
 
 Worked on classification and prediction problems involving data preprocessing, feature engineering, model training, and evaluation.
 
-**3.** **Traffic Sign Data Annotation**
+### Traffic Sign Data Annotation
 **IIT Indore | Oct 2024**
 
 Annotated Indian road traffic sign images for a machine learning dataset while maintaining labeling consistency and accuracy.
