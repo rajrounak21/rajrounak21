@@ -173,12 +173,14 @@ between LLMs, agents, and external tools.
 
 ## Experience
 
-**Python Developer – Trainee**  
-Walsis eConnect India Pvt. Ltd. | Apr 2025 – Jul 2025
+**Python Developer – Trainee**
+**Walsis eConnect India Pvt. Ltd. | Patna, Bihar | Apr 2026 – Jul 2026**
 
-Worked on backend features for an expense-management product,
-including receipt extraction with PaddleOCR and automated Excel
-report generation.
+* Developed backend features for **Expensepedia**, an expense-management product, including PDF/image receipt and invoice processing using **PaddleOCR**.
+* Built extraction and validation logic for key fields such as **vendor, amount, date, and line items**.
+* Automated structured **Excel expense report generation using openpyxl**, reducing manual data entry.
+* Collaborated with senior developers on code reviews and production-oriented Python development.
+
 
 **Machine Learning Intern**  
 Vaishnav Technologies | Sep 2024 – Oct 2024
