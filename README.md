@@ -1,6 +1,6 @@
 # Rounak Raj
 
-### 🤖 AI & ML Engineer | Agentic AI | LLMs | Python
+### AI & ML Engineer | Software Engineering | Agentic AI | LLMs | Python |
 
 Building practical AI systems, multi-agent applications, and SaaS products using Python, LLMs, and modern backend technologies.
 
