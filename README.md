@@ -1,16 +1,246 @@
-## Hi there 👋
+# Rounak Raj
 
-<!--
-**rajrounak21/rajrounak21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & ML Engineer | Agentic AI | LLMs | Python
 
-Here are some ideas to get you started:
+Building practical AI systems, multi-agent applications, and real-world
+SaaS products using Python, LLMs, and modern backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rounak--raj--761400267-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounak-raj-761400267/)
+[![GitHub](https://img.shields.io/badge/GitHub-rajrounak21-181717?style=flat&logo=github&logoColor=white)](https://github.com/rajrounak21)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rounakraj.online-181717?style=flat&logo=google-chrome&logoColor=white)](https://portfolio.rounakraj.online/)
+
+---
+
+## About Me
+
+- AI & ML Engineer focused on LLMs, RAG, and Multi-Agent Systems
+- Building agentic workflows using LangChain and LangGraph
+- Backend development with FastAPI and Flask
+- Interested in building AI products that solve practical problems
+- Experience across AI/ML development, backend engineering, and automation
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**AI / Agentic AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**ML / Data**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+---
+
+## Featured Projects
+
+### FamilyShield
+
+**AI-Powered Family Safety Platform**
+
+A real-world family safety platform that helps users analyze
+suspicious messages and make safer decisions with trusted family
+members before clicking, paying, or sharing sensitive information.
+
+**Highlights**
+
+- AI risk analysis using Groq and LangGraph
+- Family-based sharing and safety verdicts
+- Real-time family chat using WebSockets
+- Web Push notifications
+- JWT authentication and Google OAuth
+- Argon2 password hashing
+- Hindi, Hinglish, and English support
+- Emergency guidance for cyber and financial incidents
+
+[![Live](https://img.shields.io/badge/Live%20Website-Visit-181717?style=flat&logo=google-chrome&logoColor=white)](https://familyshield.rounakraj.online/)
+[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rajrounak21/Family-Shield)
+
+---
+
+### Sikhsha Sathi
+
+**Digital Education Management Platform for Indian Institutes**
+
+A SaaS platform for managing students, faculty, payments,
+attendance, assessments, courses, analytics, and institute
+operations.
+
+**Highlights**
+
+- Student and faculty management
+- Payment and attendance tracking
+- Assessments and course management
+- Analytics dashboard
+- AI-powered features
+- Multi-branch institute support
+- FastAPI + MongoDB backend
+
+[![Live](https://img.shields.io/badge/Live%20Website-Visit-181717?style=flat&logo=google-chrome&logoColor=white)](https://sikhsha-sathi.rounakraj.online/)
+
+---
+
+### AI App Builder
+
+**Lovable-Inspired Multi-Agent Application Builder**
+
+A multi-agent system that generates complete web applications
+from natural-language prompts.
+
+**Architecture**
+
+`Planner → Architect → Coder → Reviewer`
+
+**Highlights**
+
+- Multi-agent application generation
+- Tool-using coding agents
+- Autonomous code creation and modification
+- Automated code review
+- Live application preview
+- One-click ZIP export
+
+[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rajrounak21/Lovable-ai-clone)
+
+---
+
+### Smart-Finance-AI
+
+**AI-Powered Financial Analysis**
+
+An AI-powered financial analysis system for market insights,
+company analysis, financial news, and AI-assisted research.
+
+**Focus**
+
+- Market analysis
+- Company analysis
+- Financial news
+- Real-time information retrieval
+- AI-assisted financial insights
+
+[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rajrounak21/Smart-Finance-AI)
+
+---
+
+### MCP-USE
+
+**Model Context Protocol & Tool-Using AI**
+
+A project exploring MCP-based AI systems and the interaction
+between LLMs, agents, and external tools.
+
+**Focus**
+
+- MCP integrations
+- Tool-using AI agents
+- Agent-to-tool interaction
+- LLM-powered automation
+
+[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rajrounak21/MCP-USE)
+
+---
+
+## Experience
+
+**Python Developer – Trainee**  
+Walsis eConnect India Pvt. Ltd. | Apr 2025 – Jul 2025
+
+Worked on backend features for an expense-management product,
+including receipt extraction with PaddleOCR and automated Excel
+report generation.
+
+**Machine Learning Intern**  
+Vaishnav Technologies | Sep 2024 – Oct 2024
+
+Worked on classification and prediction problems involving
+data preprocessing, feature engineering, model training, and
+evaluation.
+
+**Traffic Sign Data Annotation**  
+IIT Indore | Oct 2024
+
+Annotated Indian road traffic sign images for a machine learning
+dataset while maintaining labeling consistency and accuracy.
+
+---
+
+## Currently Working On
+
+### Sikhsha Sathi
+
+Currently expanding **Sikhsha Sathi** into a more complete and
+production-ready education management platform.
+
+My current work includes:
+
+- Expanding platform features and institute workflows
+- Improving authentication and authorization
+- Strengthening application security
+- Implementing and refining role-based access control
+- Improving backend architecture and API security
+- Enhancing dashboards and existing modules
+- Working toward better scalability and production readiness
+
+The goal is to continue turning Sikhsha Sathi from a project into
+a useful, reliable platform for real educational institutes.
+
+[![Sikhsha Sathi](https://img.shields.io/badge/Visit%20Sikhsha%20Sathi-Live-181717?style=flat&logo=google-chrome&logoColor=white)](https://sikhsha-sathi.rounakraj.online/)
+
+---
+
+## Education
+
+**Diploma in Artificial Intelligence and Machine Learning**  
+Government Polytechnic Barh | 2022 – 2025  
+CGPA: 8.77 / 10
+
+**Secondary (X), CBSE**  
+St. John's Academy | 2022  
+CGPA: 8.22 / 10
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounak-raj-761400267/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=flat&logo=google-chrome&logoColor=white)](https://portfolio.rounakraj.online/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-rajrounak21-181717?style=flat&logo=github&logoColor=white)](https://github.com/rajrounak21)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rajrounak366@gmail.com)
+
+---
+
+> Building AI systems that solve real problems.
