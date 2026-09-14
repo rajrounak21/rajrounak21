@@ -190,13 +190,17 @@ A project exploring MCP-based AI systems and interactions between LLMs, agents, 
 ### Machine Learning Intern
 **Vaishnav Technologies | Sep 2024 – Oct 2024**
 
-Worked on classification and prediction problems involving data preprocessing, feature engineering, model training, and evaluation.
+- Worked on classification and prediction problems using Python and machine learning techniques.
+- Performed data preprocessing, feature engineering, model training, and evaluation.
+- Worked with datasets to improve model performance and prediction results.
 
 ### Traffic Sign Data Annotation
 **IIT Indore | Oct 2024**
 
-Annotated Indian road traffic sign images for a machine learning dataset while maintaining labeling consistency and accuracy.
-
+- Annotated Indian road traffic sign images for a machine learning dataset.
+- Followed predefined labeling guidelines to maintain consistency and accuracy.
+- Prepared image data for use in computer vision and machine learning workflows.
+  
 ---
 
 ## 🔨 Currently Working On
