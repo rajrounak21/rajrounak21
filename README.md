@@ -222,12 +222,6 @@ CGPA: 8.22 / 10
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rounak-raj-761400267/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=flat\&logo=google-chrome\&logoColor=white)](https://portfolio.rounakraj.online/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-rajrounak21-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/rajrounak21)
-
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:rajrounak366@gmail.com)
 
 ---
