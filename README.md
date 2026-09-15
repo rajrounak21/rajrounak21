@@ -143,23 +143,6 @@ A multi-agent system that generates complete web applications from natural-langu
 
 ---
 
-### 💰 Smart-Finance-AI
-
-**AI-Powered Financial Analysis**
-
-An AI-powered system for market insights, company analysis, financial news, and AI-assisted research.
-
-**Focus**
-
-* Market and company analysis
-* Financial news
-* Real-time information retrieval
-* AI-assisted financial insights
-
-[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/rajrounak21/Smart-Finance-AI)
-
----
-
 ### 🔌 MCP-USE
 
 **Model Context Protocol & Tool-Using AI**
