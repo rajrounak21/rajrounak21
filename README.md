@@ -76,7 +76,7 @@ Building practical AI systems, multi-agent applications, and SaaS products using
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🛡️ FamilyShield
 
