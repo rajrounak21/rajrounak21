@@ -58,17 +58,17 @@ Building practical AI systems, multi-agent applications, and SaaS products using
 **ML / Data**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-412991?style=flat\&logo=googletranslate\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102A43?style=flat\&logo=scikitlearn\&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat\&logo=tensorflow\&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C6BC0?style=flat\&logo=opencv\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat\&logo=matplotlib\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat\&logo=python\&logoColor=white)
-
+![NLP](https://img.shields.io/badge/NLP-412991?style=flat&logo=googletranslate&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102A43?style=flat&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C6BC0?style=flat&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 **Automation**
 
